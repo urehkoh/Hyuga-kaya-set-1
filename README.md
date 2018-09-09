@@ -26,3 +26,8 @@
 ## Credit
 
 * I took some stone images from the [go-assets](https://github.com/atarnowsky/go-assets) repository, available under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license. I 'washed' them and removed the yellow dirt on them for this theme.
+
+
+## License
+
+* All rights of my parts reserved. I'm cosidering whether to release them in the future.
