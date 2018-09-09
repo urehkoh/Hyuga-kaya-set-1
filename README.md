@@ -1,4 +1,4 @@
-# Hyuga Kaya Set 1 Theme for [Sabaki]: https://sabaki.yichuanshen.de/
+# Hyuga Kaya Set 1 Theme for [Sabaki](https://sabaki.yichuanshen.de)
 
 
 
