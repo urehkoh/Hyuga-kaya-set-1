@@ -5,6 +5,8 @@
 
 ![screenshot2](https://github.com/urehkoh/hyuga-kaya-set-1/blob/master/screenshot2.png)
 
+![screenshot3](https://github.com/urehkoh/hyuga-kaya-set-1/blob/master/screenshot3.png)
+
 
 ## Features
 
