@@ -1,3 +1,4 @@
+
 # Hyuga Kaya Set 1 Theme for [Sabaki](https://sabaki.yichuanshen.de)
 
 
@@ -24,4 +25,4 @@
 
 ## Credit
 
-* I took some stone images from the go-assets repository(Copyright © 2016 Andreas Tarnowsky). I 'washed' them and removed the yellow dirt on them for this theme.
+* I took some stone images from the [go-assets](https://github.com/atarnowsky/go-assets) repository, available under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license. I 'washed' them and removed the yellow dirt on them for this theme.
