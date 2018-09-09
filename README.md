@@ -18,7 +18,7 @@
 
 ## Installation
 
-* Download hyuga-kaya-set-1.asar
+* [Download the installation file]().
 * Use the dropdown menu of Sabaki: File > Preferences... > Themes > Install Theme...
 
 
