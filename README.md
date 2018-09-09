@@ -13,6 +13,7 @@
 * Captured from a real high-end Hyuga kaya go table
 * Every object features super quality in graphic.
 * The size of every object(including the stripes on the board) maintains appropreate ratio when resizing the outer window.
+* The color of the board changes according to the brightness of your monitor, the time of day and your feeling as a real kaya board does.
 * Compatible with 4K UHD
 
 
