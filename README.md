@@ -1,6 +1,9 @@
 
 # Hyuga Kaya Set 1 Theme for [Sabaki](https://sabaki.yichuanshen.de)
 
+![screenshot1](https://github.com/urehkoh/hyuga-kaya-set-1/blob/master/screenshot1.png)
+
+![screenshot2](https://github.com/urehkoh/hyuga-kaya-set-1/blob/master/screenshot2.png)
 
 
 ## Features
