@@ -26,7 +26,7 @@
 ## Notes
 
 * For Sabaki v0.35.1 or so
-* The theme is compatible up to 2560 pixel resolution of the shorter axis of your monitor. (The resolution of the longer axis doesn't matter.) If the resolution of the smaller axis exceeds 2560 pixels, abnormal graphic may appear.
+* The theme is compatible up to 2560 pixel resolution of the shorter axis of your monitor. (The resolution of the longer axis doesn't matter.) If the resolution of the shorter axis exceeds 2560 pixels, abnormal graphic may appear.
 
 
 ## Credit
